@@ -8,6 +8,7 @@ This project is a starting point for a Flutter application.
 
 Shopping.
 
+![Tux, the Linux mascot](/Demo/0.png)
 ![Tux, the Linux mascot](/Demo/1.png)
 ![Tux, the Linux mascot](/Demo/2.png)
 ![Tux, the Linux mascot](/Demo/3.png)
@@ -17,10 +18,6 @@ Shopping.
 ![Tux, the Linux mascot](/Demo/7.png)
 ![Tux, the Linux mascot](/Demo/8.png)
 ![Tux, the Linux mascot](/Demo/9.png)
-![Tux, the Linux mascot](/Demo/10.png)
-![Tux, the Linux mascot](/Demo/11.png)
-
-
 
 
 
